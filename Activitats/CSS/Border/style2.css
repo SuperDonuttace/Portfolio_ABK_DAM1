@@ -1,0 +1,6 @@
+img{
+    border-top: 2rem solid yellow;
+    border-bottom: 2rem solid yellow;
+    border-right: 2rem dashed yellow;
+    border-left: 2rem dashed yellow;
+}

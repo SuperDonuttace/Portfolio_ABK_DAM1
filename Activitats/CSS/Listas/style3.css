@@ -1,0 +1,11 @@
+ul{
+    background-color: rgb(58, 152, 152);
+    width: 5rem;
+    list-style: none;
+    color: white;
+
+}
+li{
+    text-align: center;
+    border: 1px solid black;
+}

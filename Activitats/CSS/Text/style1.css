@@ -1,0 +1,7 @@
+body {background-color: rgb(212, 240, 241);}
+
+.titulo {font-size: 50px;}
+
+.subtitulo {font-size: 25px; font-weight: bold;}
+
+.texto {font-style: unset; font-size: 10px;}
