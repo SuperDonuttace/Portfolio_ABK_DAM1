@@ -1,0 +1,10 @@
+:root{
+    --color-titulo: #ff0000;
+    --color-hipervinculos: #3cc900;
+}
+h1 {
+    color: var(--color-titulo);
+}
+a{
+    color: var(--color-hipervinculos)
+}
